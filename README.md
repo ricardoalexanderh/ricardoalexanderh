@@ -2,13 +2,14 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+%26+Software+Architect;Building+Tomorrow's+Systems+Today;Full-stack+●+Web+●+Mobile+●+Web3+●+AI%2FLLM;20%2B+Years+of+Innovation;Fortune+500+Trusted+Partner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+%26+Software+Architect;20%2B+Years+of+Innovation;Fortune+500+Trusted+Partner)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-**Co-Founder & Managing Partner at SparkWorks** | **Software Architect** | **Technology Entrepreneur**
+**Tech Enthusiast & Software Architect** | **Managing Partner at SparkWorks** | **Building Tomorrow's Systems Today**
+**Full-stack ● Web ● Mobile ● Web3 ● AI/LLM**
 
 I'm a passionate software architect with 20+ years of experience transforming complex business challenges into scalable, high-performance solutions. From solo developer to enterprise architect to company co-founder, I've partnered with industry leaders like **Toyota**, **Bank Mandiri**, **Astra Group**, and **Panasonic** to drive digital transformation across Southeast Asia.
 
