@@ -149,10 +149,10 @@ Innovation:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ricardoalexanderh/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoalexanderh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardoalexanderh@gmail.com)
-[![Website](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-website.com)
-[![SparkWorks](https://img.shields.io/badge/SparkWorks-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://sparkworks.co.id)
+[![Website](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=About.me&logoColor=white)](https://ricardoalexander.dev)
+[![SparkWorks](https://img.shields.io/badge/SparkWorks-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://www.sparkworks.co.id)
 
 </div>
 
