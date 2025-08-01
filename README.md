@@ -127,7 +127,7 @@ Innovation:
 - **Tech**: SQL Server, Microservices, Performance Tuning
 - **Scale**: 1-2 million daily transactions
 
-### 🏢 **SparkWorks Platform**
+### 🏢 **SparkWorks**
 *Technology company and enterprise solutions*
 - **Impact**: Built from startup to Fortune 500 partnerships
 - **Tech**: Full-stack development, Cloud architecture
