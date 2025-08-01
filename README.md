@@ -6,6 +6,16 @@
 
 </div>
 
+## 📋 Table of Contents
+
+- [🚀 About Me](#-about-me)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📊 GitHub Analytics](#-github-analytics)
+- [🏆 Notable Achievements](#-notable-achievements)
+- [🎯 Current Focus](#-current-focus)
+- [🌟 Featured Projects](#-featured-projects)
+- [📫 Let's Connect!](#-lets-connect)
+
 ## 🚀 About Me
 
 **Tech Enthusiast & Software Architect** | **Managing Partner at SparkWorks** | **Building Tomorrow's Systems Today**
