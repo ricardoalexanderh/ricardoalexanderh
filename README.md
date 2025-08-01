@@ -97,18 +97,6 @@ const ricardoSkills = {
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoalexander&show_icons=true&theme=react&hide_border=true&bg_color=0A0E27&title_color=00D4FF&icon_color=4ECDC4&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoalexander&layout=compact&theme=react&hide_border=true&bg_color=0A0E27&title_color=00D4FF&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ricardoalexander&theme=react&hide_border=true&background=0A0E27&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF)
-
-</div>
-
 ## 🏆 Notable Achievements
 
 ```yaml
