@@ -26,21 +26,6 @@ I'm a passionate software architect with 20+ years of experience transforming co
 ### **Languages & Core Technologies**
 ```typescript
 const ricardoSkills = {
-  languages: ['C#/.NET', 'Java', 'Python', 'Node.js', 'TypeScript'],
-  frontend: ['React', 'Angular', 'Flutter'],
-  backend: ['NestJS', '.NET', 'Java'],
-  cloud: ['AWS', 'Azure', 'GCP'],
-  databases: ['SQL Server', 'PostgreSQL', 'MongoDB', 'Oracle'],
-  web3: ['Solidity', 'Foundry', 'Hardhat', 'Ethers.js'],
-  emerging: ['AI/LLM', 'Context Engineering', 'MCP Server Development']
-}
-```
-
-## 🛠️ Tech Stack
-
-### **Languages & Core Technologies**
-```typescript
-const ricardoSkills = {
   languages: ['C#/.NET', 'Java', 'Python', 'Node.js', 'TypeScript', 'Solidity'],
   frontend: ['React', 'Angular', 'Flutter'],
   backend: ['NestJS', '.NET', 'Spring Boot'],
