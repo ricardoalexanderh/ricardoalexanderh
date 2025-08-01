@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+%26+Software+Architect;Building+Tomorrow's+Systems+Today;20%2B+Years+of+Innovation;Fortune+500+Trusted+Partner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+%26+Software+Architect;Building+Tomorrow's+Systems+Today;Full-stack+●+Web+●+Mobile+●+Web3+●+AI%2FLLM;20%2B+Years+of+Innovation;Fortune+500+Trusted+Partner)](https://git.io/typing-svg)
 
 </div>
 
@@ -60,18 +60,6 @@ const ricardoSkills = {
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![AI](https://img.shields.io/badge/AI/LLM-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoalexander&show_icons=true&theme=react&hide_border=true&bg_color=0A0E27&title_color=00D4FF&icon_color=4ECDC4&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoalexander&layout=compact&theme=react&hide_border=true&bg_color=0A0E27&title_color=00D4FF&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ricardoalexander&theme=react&hide_border=true&background=0A0E27&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF)
 
 </div>
 
