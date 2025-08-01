@@ -9,6 +9,7 @@
 ## 🚀 About Me
 
 **Tech Enthusiast & Software Architect** | **Managing Partner at SparkWorks** | **Building Tomorrow's Systems Today**
+
 **Full-stack ● Web ● Mobile ● Web3 ● AI/LLM**
 
 I'm a passionate software architect with 20+ years of experience transforming complex business challenges into scalable, high-performance solutions. From solo developer to enterprise architect to company co-founder, I've partnered with industry leaders like **Toyota**, **Bank Mandiri**, **Astra Group**, and **Panasonic** to drive digital transformation across Southeast Asia.
