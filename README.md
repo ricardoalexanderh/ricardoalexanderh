@@ -35,7 +35,8 @@ I'm a passionate software architect with 20+ years of experience transforming co
 
 ### **Languages & Core Technologies**
 ```typescript
-const ricardoSkills = {
+//Use let instead of const for growing skills
+let ricardoSkills = {
   languages: ['C#/.NET', 'Java', 'Python', 'Node.js', 'TypeScript', 'Solidity'],
   frontend: ['React', 'Angular', 'Flutter'],
   backend: ['NestJS', '.NET', 'Spring Boot'],
